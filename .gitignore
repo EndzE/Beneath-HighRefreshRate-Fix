@@ -1,0 +1,13 @@
+# Compiled binaries
+*.dll
+*.exe
+*.o
+*.obj
+*.log
+
+# Archives
+*.zip
+
+# Editor directories
+.vscode/
+.vs/
