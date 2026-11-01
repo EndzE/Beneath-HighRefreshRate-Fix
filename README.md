@@ -3,7 +3,6 @@
 > Standalone native drag-and-drop fix for [Beneath](https://store.steampowered.com/app/1593230/Beneath/) that synchronizes Unity's physics timestep with your display's refresh rate and uncaps the framerate, eliminating camera judder, ghosting, and smearing.
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20x64-blue.svg)](#system-requirements--verified-environment)
-[![Game](https://img.shields.io/badge/Game-Beneath%20(Steam)-orange.svg)](https://store.steampowered.com/app/1593230/Beneath/)
 [![Installation](https://img.shields.io/badge/Installation-Drag%20%26%20Drop-green.svg)](#installation-guide)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
